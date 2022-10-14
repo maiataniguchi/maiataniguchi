@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiataniguchi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiataniguchi&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
 <div style="display: inline_block"><br>
    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
@@ -17,8 +16,7 @@
   <img align="center" alt="Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   </div>
   
-  
-  ##
+##
  
 <div> 
   <a href = "mailto:maaymt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
