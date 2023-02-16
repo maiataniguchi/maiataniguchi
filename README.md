@@ -28,20 +28,25 @@ Módulo 03 - Estatística
 - [Teste unicaudal](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/9%20-%20Estatistica/exercicios_teste_unicaudal.ipynb)
 - [Teste de hipótese para duas amostras](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/9%20-%20Estatistica/Exercicios_Teste_de_hipotese_para_duas_amostras.ipynb)
 
+--------------------------------------
+
+
 <div align="center">
   <a href="https://github.com/maiataniguchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiataniguchi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiataniguchi&layout=compact&langs_count=7&theme=synthwave&card_width=100px"/>
 </div>
+  
+<div align="center">
 <div style="display: inline_block"><br>
-   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-    <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="R-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+   <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="R-Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Latex" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   </div>
   
-##
+--------------------------------------
 
 Meus contatos:
  
@@ -51,4 +56,3 @@ Meus contatos:
   <a href="https://www.linkedin.com/in/maiarataniguchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://orcid.org/0000-0003-0098-8031" target="_blank"><img src="https://camo.githubusercontent.com/c3b04e8965fc7d593059902300d92deb23f0d10e2dd5b6dbfb788840d7c6848b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f726369642d4136434533393f7374796c653d666f722d7468652d6261646765266c6f676f3d6f72636964266c6f676f436f6c6f723d7768697465" target="_blank"></a>
 </div>
- 
