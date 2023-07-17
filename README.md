@@ -5,19 +5,19 @@ Me chamo Maiara e atualmente sou residente do Hub de Inteligência Artificial do
 :books: Formação acadêmica:
 - Graduada em Química pela [UTFPR](https://portal.utfpr.edu.br/home)
 - Mestre em Engenharia Química pela [UTFPR](https://repositorio.utfpr.edu.br/jspui/handle/1/3198)
-- Doutoranda em Química pela [UEM](http://www.pqu.uem.br/)
+- Doutora em Química pela [UEM](http://www.pqu.uem.br/)
 - Residente em Inteligência Artificial aplicada à Indústria pelo [Hub de IA do SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
 
 --------------------------------------
 
 Durante o período de residência resolvo exercícios propostos pelo Advanced Institute for Artificial Intelligence que podem ser visualizados nos links abaixo.
 
-Módulo 01 - Preparação do ambiente
+Módulo 01 - Linux | Bash
 - [Shell](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/1-Shell)
 - [WorkGit](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/3-WorkGit)
 - [Docker](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/4-Docker)
 
-Módulo 02 - Programação em Python
+Módulo 02 - Python
 - [Markdown](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/5-Python/Jupyter_Notebook_Markdown)
 - [Funções](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/5-Python/Funcoes)
 - [UML](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/7-POO_UML/diagramaclasse_formageometrica.jpg)
