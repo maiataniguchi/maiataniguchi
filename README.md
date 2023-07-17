@@ -32,14 +32,7 @@ Módulo 04 - Machine Learning
 - [Regressão Linear](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/10%20-%20Machine%20Learning/LinearRegression.ipynb)
 - [Regressão Logística](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/10%20-%20Machine%20Learning/LogisticRegression.ipynb)
 --------------------------------------
-
-
-<div align="center">
-  <a href="https://github.com/maiataniguchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiataniguchi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiataniguchi&layout=compact&langs_count=7&theme=synthwave&card_width=100px"/>
-</div>
-  
+ 
 <div align="center">
 <div style="display: inline_block"><br>
    <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
