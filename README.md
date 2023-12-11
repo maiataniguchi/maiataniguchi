@@ -1,8 +1,8 @@
 # Hello, World! :sun_with_face:
 
-Me chamo Maiara e atualmente atuo como Cientista de Dados. Nesse perfil você poderá acompanhar minhas atividades, mas antes conheça um pouco sobre mim:
+Me chamo Maiara e atualmente trabalho como Cientista de Dados. Nesse perfil você poderá acompanhar minhas atividades, mas antes conheça um pouco sobre mim:
 
-:books: Formação acadêmica:
+🎓 Formação acadêmica: 
 - Graduada em Química pela [UTFPR](https://portal.utfpr.edu.br/home)
 - Mestre em Engenharia Química pela [UTFPR](https://repositorio.utfpr.edu.br/jspui/handle/1/3198)
 - Doutora em Ciências com ênfase em Química pela [UEM](http://www.pqu.uem.br/)
