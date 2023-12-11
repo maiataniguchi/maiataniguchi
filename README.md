@@ -1,16 +1,16 @@
 # Hello, World! :sun_with_face:
 
-Me chamo Maiara e atualmente sou residente do Hub de Inteligência Artificial do SENAI. Nesse perfil você poderá acompanhar minhas atividades, mas antes conheça um pouco sobre mim:
+Me chamo Maiara e atualmente atuo como Cientista de Dados. Nesse perfil você poderá acompanhar minhas atividades, mas antes conheça um pouco sobre mim:
 
 :books: Formação acadêmica:
 - Graduada em Química pela [UTFPR](https://portal.utfpr.edu.br/home)
 - Mestre em Engenharia Química pela [UTFPR](https://repositorio.utfpr.edu.br/jspui/handle/1/3198)
-- Doutora em Química pela [UEM](http://www.pqu.uem.br/)
-- Residente em Inteligência Artificial aplicada à Indústria pelo [Hub de IA do SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
+- Doutora em Ciências com ênfase em Química pela [UEM](http://www.pqu.uem.br/)
+- Especialista em Inteligência Artificial aplicada à Indústria pela [UniSENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
 
 --------------------------------------
 
-Durante o período de residência resolvo exercícios propostos pelo Advanced Institute for Artificial Intelligence que podem ser visualizados nos links abaixo.
+Durante meu período de residência, resolvi alguns exercícios propostos pelo Advanced Institute for Artificial Intelligence que podem ser visualizados nos links abaixo.
 
 Módulo 01 - Linux | Bash
 - [Shell](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/1-Shell)
