@@ -4,8 +4,8 @@ Me chamo Maiara e atualmente trabalho como Cientista de Dados. Nesse perfil voc�
 
 🎓 Formação acadêmica: 
 - Graduada em Química pela [UTFPR](https://portal.utfpr.edu.br/home)
-- Mestre em Engenharia Química pela [UTFPR](https://repositorio.utfpr.edu.br/jspui/handle/1/3198)
-- Doutora em Ciências com ênfase em Química pela [UEM](http://www.pqu.uem.br/)
+- Mestra em Engenharia pela [UTFPR](https://repositorio.utfpr.edu.br/jspui/handle/1/3198)
+- Doutora em Ciências pela [UEM](http://www.pqu.uem.br/)
 - Especialista em Inteligência Artificial aplicada à Indústria pela [UniSENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
 
 --------------------------------------
