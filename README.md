@@ -9,28 +9,7 @@ Me chamo Maiara e atualmente trabalho como Cientista de Dados. Nesse perfil voc�
 - Especialista em Inteligência Artificial aplicada à Indústria pela [UniSENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
 
 --------------------------------------
-
-Durante meu período de residência, resolvi alguns exercícios propostos pelo Advanced Institute for Artificial Intelligence que podem ser visualizados nos links abaixo.
-
-Módulo 01 - Linux | Bash
-- [Shell](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/1-Shell)
-- [WorkGit](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/3-WorkGit)
-- [Docker](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/4-Docker)
-
-Módulo 02 - Python
-- [Markdown](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/5-Python/Jupyter_Notebook_Markdown)
-- [Funções](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/5-Python/Funcoes)
-- [UML](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/7-POO_UML/diagramaclasse_formageometrica.jpg)
-- [Pandas](https://github.com/maiataniguchi/Aulas_git_Ai2/tree/main/8-Pandas)
-
-Módulo 03 - Estatística
-- [Análise descritiva](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/9%20-%20Estatistica/An%C3%A1lise_Descritiva.ipynb)
-- [Teste unicaudal](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/9%20-%20Estatistica/exercicios_teste_unicaudal.ipynb)
-- [Teste de hipótese para duas amostras](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/9%20-%20Estatistica/Exercicios_Teste_de_hipotese_para_duas_amostras.ipynb)
-
-Módulo 04 - Machine Learning
-- [Regressão Linear](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/10%20-%20Machine%20Learning/LinearRegression.ipynb)
-- [Regressão Logística](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/10%20-%20Machine%20Learning/LogisticRegression.ipynb)
+Atuo como Cientista de Dados desenvolvendo soluções baseadas em análise estatística e machine learning.
 --------------------------------------
  
 <div align="center">
